@@ -1,1 +1,1 @@
-worker: python3 Run
+worker: python3 Fast.lua
